@@ -1,4 +1,4 @@
-# Albeit-Aporetic
+# Crusaders —— Writing
 This contains my literary work on "The Ashes", including, but not limited to: "Albeit Aporetic", a science-fantasy chronicle cycle that my friends and I colloquially call "The Novel", which this repo is mainly about; "The CC", a failed iteration of "The Novel"; "CC Lore", another failed iteration; and lore anecdotes.
 
 ## Structure
